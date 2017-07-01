@@ -16,3 +16,5 @@ Steps to reproduce:
    Observe: Breakpoint doesn't work.
 1. Shut down app and try to launch again. 
    Observe: Error because the old process is still running, and port 8080 isn't free.
+
+youtrack ticket: https://youtrack.jetbrains.com/issue/IDEA-175246
